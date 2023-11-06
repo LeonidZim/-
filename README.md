@@ -42,7 +42,7 @@
 
 
 ## Использование
-Вся информация о работе представлена в [jupyter-ноутбуке]().
+Вся информация о работе представлена в [jupyter-ноутбуке](https://github.com/LeonidZim/Diplom-Project/blob/master/Diplom%20v2.ipynb)
 
 
 ## Авторы
